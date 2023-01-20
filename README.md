@@ -13,6 +13,7 @@ Also, I am grateful to have had [Petru](https://github.com/petrupetru) as my tea
 
 **[Demo video](https://youtu.be/_vGBUvMccEI)**
 
-**Photo of setup:**
+**Photos of setup:**
 
-![asd](/Homework/H1/H1-pic.jpg)
+![asd](/pics/pic2.jpg)
+![asd](/pics/pic1.jpg)
