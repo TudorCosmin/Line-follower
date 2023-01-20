@@ -8,3 +8,9 @@ The robot is equipped with lights, complete with resistors, that allow it to nav
 The robot is equipped with a QTR-8A sensor, which is a crucial component in its ability to follow a line. The sensor works by emitting infrared light and measuring the reflectance of the surface underneath it. This allows the robot to detect the contrast between the line and the surrounding surface. Before the robot begins to follow the line, it goes through a calibration process. During calibration, the robot moves left and right, allowing the sensor to take readings of the surface and determine the location of the line. This way the robot can adjust its position and make sure it is following the line as closely as possible. With the sensor's precise readings and the robot's advanced control system, it can follow the line with great accuracy and stability.
 
 The robot's movement is controlled using a PID (Proportional-Integral-Derivative) controller, which guarantees precise and accurate movement. With its ability to effortlessly follow a line, this robot is truly in a class of its own.
+
+**[Demo video](https://youtu.be/_vGBUvMccEI)**
+
+**Photo of setup:**
+
+![asd](/Homework/H1/H1-pic.jpg)
