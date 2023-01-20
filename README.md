@@ -9,6 +9,8 @@ The robot is equipped with a QTR-8A sensor, which is a crucial component in its 
 
 The robot's movement is controlled using a PID (Proportional-Integral-Derivative) controller, which guarantees precise and accurate movement. With its ability to effortlessly follow a line, this robot is truly in a class of its own.
 
+Also, I am grateful to have had [Petru](https://github.com/petrupetru) as my teammate for this hackaton. Together, we accomplished a great deal and I couldn't have done it without his contributions.
+
 **[Demo video](https://youtu.be/_vGBUvMccEI)**
 
 **Photo of setup:**
