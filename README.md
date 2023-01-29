@@ -11,6 +11,13 @@ The robot's movement is controlled using a PID (Proportional-Integral-Derivative
 
 Also, I am grateful to have had [Petru](https://github.com/petrupetru) as my teammate in "Echipa cu numarul patru" for this hackaton. Together, we accomplished a great deal and I couldn't have done it without his contributions. Our fastest time for the route presented in the demo video was 18.284 seconds
 
+### Tash Requirements:
+- Assemble the kit according to instructions
+- Program the line follower to meet performance specifications
+- Complete the course within 20 seconds or less
+- Ensure accuracy and consistency in line following
+- Optimize speed without compromising accuracy and stability.
+
 **[Demo video](https://youtu.be/_vGBUvMccEI)**
 
 **Photos of setup:**
